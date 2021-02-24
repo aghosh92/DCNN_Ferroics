@@ -5,9 +5,9 @@ The goal of this study is to show how polarization of bismuth ferrite (BFO) dope
 
 In particular the notebooks demonstrate:
 
-(1) how a 'sliding window' approach can be utilized to generate subimages that are not centered around the atoms,
+(1) how a 'sliding window' approach can be utilized to generate subimages that are not centered (NC) around the atoms,
 
-(2) how to generate subimages that are centered around the atoms,
+(2) how to generate subimages that are centered (C) around the atoms,
 
 (3) how DCNNs are trained on one of the images/subimages correponding to one Sm concentration and can be applied to the other compositions,
 
