@@ -9,6 +9,6 @@ In particular the notebooks demonstrate:
 
 (2) how to generate subimages that are centered around the atoms,
 
-(2) how DCNNs are trained on one of the images/subimages correponding to one Sm concentration and can be applied to the other compositions,
+(3) how DCNNs are trained on one of the images/subimages correponding to one Sm concentration and can be applied to the other compositions,
 
-(3) how to construct feature maps, visualize convolution layers to get insights into DCNN operations.
+(4) how to construct feature maps, visualize convolution layers to get insights into DCNN operations.
