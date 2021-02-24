@@ -12,3 +12,7 @@ In particular the notebooks demonstrate:
 (3) how DCNNs are trained on one of the images/subimages correponding to one Sm concentration and can be applied to the other compositions,
 
 (4) how to construct feature maps, visualize convolution layers to get insights into DCNN operations.
+
+
+STEM dataset utilized in this study is available via the following link:
+DOI 10.5281/zenodo.4555978
