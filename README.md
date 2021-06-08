@@ -5,7 +5,7 @@ The goal of this study is to show how polarization of bismuth ferrite (BFO) dope
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/DCNN_Ferroics/blob/main/ferroics_NC.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/DCNN_Ferroics/blob/main/DCNN_ferroics_C_train_test_visualize.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/DCNN_Ferroics/blob/main/ferroics_C.ipynb)
 
 
 In particular the notebooks demonstrate:
