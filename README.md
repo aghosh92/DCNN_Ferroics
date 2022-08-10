@@ -1,6 +1,8 @@
 # DCNN_Ferroics
 Deep learning polarization data in ferroelectrics from STEM images
 
+Publication: C. T. Nelson**, A. Ghosh**, M. Oxley, et al. Deep learning ferroelectric polarization distributions from STEM data via with and without atom finding. npj Comput Mater 7, 149 (2021). https://doi.org/10.1038/s41524-021-00613-6
+
 The goal of this study is to show how polarization of bismuth ferrite (BFO) doped with five different Samarium (Sm) concentrations (0%, 7%, 10%, 13% and 20%) can be predicted using deep convolution neural networks (DCNNs) with and without atom finding.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/DCNN_Ferroics/blob/main/ferroics_NC_with_error_analysis.ipynb)
